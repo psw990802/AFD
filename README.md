@@ -1,10 +1,10 @@
-# Roboflow API와 gemini 1.0 pro vision을 이용한 치아 xray 진단 프로그램
+# Roboflow API와 gemini 1.0 pro vision을 이용한 xray 진단 프로그램
 
 # 작품 개발 동기 
 GPT-4o와 같은 인공지능 기술을 활용해 질병을 진단할 수 있다는 기사를 보고 X-ray를 분석해 질병을 진단하는 프로그램을 개발해보고자 했다.
 
 # 도구 선택 
-Gemini Vision Pro API와 Roboflow는 이미지 분석과 객체 인식 분야에 사용되는 도구들로 이를 활용하여 치아 X-ray 이미지를 분석하고 진단하는 프로그램을 설계하게 되었다.
+Gemini Vision Pro API와 Roboflow는 이미지 분석과 객체 인식 분야에 사용되는 도구들로 이를 활용하여 X-ray 이미지를 분석하고 진단하는 프로그램을 설계하게 되었다.
 
 # 아이디어 도출 및 논의
 
